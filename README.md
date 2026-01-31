@@ -21,7 +21,7 @@
 ## 部署
 
 该项目已部署到 GitHub Pages，可通过以下链接访问：
-[https://yourusername.github.io/happy-new-year-2026](https://yourusername.github.io/happy-new-year-2026)
+https://genkinplay.github.io/happy-new-year-2026/
 
 ## 使用方法
 
